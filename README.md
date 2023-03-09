@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hari-Parajuli/](https://github.com/Hari-Parajuli/)
 
-- 💬 Ask me about **Java,C,MySQL**
+- 💬 Ask me about **Java, C, MySQL**
 
 - 📫 How to reach me **worldsuman40@gmail.com**
 
